@@ -20,4 +20,9 @@ public class Product {
         this.price = price;
         this.rating = rating;
     }
+
+    public void setId() {
+    }
+
+
 }
